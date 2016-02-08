@@ -3353,4 +3353,637 @@
 				"Ans":"E"
 			}
   		],
+  		//Chapter 10
+  		[
+			{
+				"Q":"Because of good results, more employers are turning to a new approach to appraisal, namely a(n):",
+				"A":"point method plan.",
+				"B":"bell-shaped curve.",
+				"C":"critical incidents narrative.",
+				"D":"forced distribution system.",
+				"E":"computerized performance appraisal system.",
+				"Ans":"E"
+			},
+			{
+				"Q":"A potential problem with peer appraisal occurs when all the peers get together to rate each other highly. This is called:",
+				"A":"appraisal bias.",
+				"B":"halo error.",
+				"C":"logrolling.",
+				"D":"leniency error.",
+				"E":"preferential evaluation.",
+				"Ans":"C"
+			},
+			{
+				"Q":"When supervisors allow individual differences such as age, race, and sex to affect the appraisal ratings that employees receive, this problem is referred to as:",
+				"A":"strictness/leniency.",
+				"B":"halo effect.",
+				"C":"central tendency.",
+				"D":"trait effect.",
+				"E":"appraisal bias.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Renu has been hired as the first human resources professional at a growing landscape architecture firm, Terrastyle Inc. The firm is currently using a formal appraisal method which lists traits such as \"teamwork\" and performance values ranging from \"needs improvement\" to \"outstanding.\" Terrastyle is using the following appraisal method:",
+				"A":"behaviourally anchored rating scale.",
+				"B":"graphic rating scale.",
+				"C":"forced distribution method.",
+				"D":"critical incident method.",
+				"E":"paired comparison method.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Rules for constructive criticism include the following EXCEPT:",
+				"A":"provide suggestions about what could be done to change behaviour.",
+				"B":"a once-a-year \"critical broadside\" can be effective.",
+				"C":"criticize in private.",
+				"D":"ensure criticism is free of bias.",
+				"E":"let the employee maintain their sense of dignity and self-worth.",
+				"Ans":"B"
+			},
+			{
+				"Q":"The following are problems that are typically encountered when an organization uses the MBO method of performance appraisal EXCEPT:",
+				"A":"time-consuming procedures.",
+				"B":"unclear objectives.",
+				"C":"tug of war concerning objectives between supervisor and employee.",
+				"D":"unmeasurable objectives.",
+				"E":"measurable objectives.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Which of the following is true about performance management?",
+				"A":"Research indicates that most companies manage performance well.",
+				"B":"The process does not involve coaching.",
+				"C":"The process contains 3 steps.",
+				"D":"It is indirectly related to achieving strategic objectives.",
+				"E":"Better performance management represents a largely untapped opportunity to improve company profitability.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The critical incident method of performance appraisal is often used to supplement a:",
+				"A":"paired comparison method.",
+				"B":"ranking method.",
+				"C":"narrative form.",
+				"D":"forced distribution method.",
+				"E":"management-by-objectives method.",
+				"Ans":"B"
+			},
+			{
+				"Q":"When preparing for the appraisal interview, there are three things to do. First, assemble the data; second, prepare the employee; and finally:",
+				"A":"choose the time and place.",
+				"B":"do the performance appraisal.",
+				"C":"prepare the appraisal examination.",
+				"D":"document all information to be discussed in the interview.",
+				"E":"lay out an action plan.",
+				"Ans":"A"
+			},
+			{
+				"Q":"An employee's 360-degree appraisal usually involves the following appraisers EXCEPT:",
+				"A":"any employees reporting to the person being appraised.",
+				"B":"peers.",
+				"C":"competitors.",
+				"D":"supervisors.",
+				"E":"customers.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The step used in developing a behaviourally anchored rating scale where persons who know the job being appraised are asked to describe specific illustrations of effective and ineffective performance is:",
+				"A":"generating critical incidents.",
+				"B":"developing the final instrument.",
+				"C":"scaling the incidents.",
+				"D":"developing performance dimensions.",
+				"E":"reallocating incidents.",
+				"Ans":"A"
+			},
+			{
+				"Q":"The following are steps in developing a behaviourally anchored rating scale EXCEPT:",
+				"A":"causing critical incidents to occur.",
+				"B":"developing the final instrument.",
+				"C":"scaling the incidents.",
+				"D":"developing performance dimensions.",
+				"E":"generating critical incidents.",
+				"Ans":"A"
+			},
+			{
+				"Q":"To clarify performance expectations, ________ should be developed.",
+				"A":"an HR strategy",
+				"B":"strategic objectives",
+				"C":"a business plan",
+				"D":"a list of traits",
+				"E":"measurable standards",
+				"Ans":"E"
+			},
+			{
+				"Q":"The job description often is not sufficient to clarify what employees are to do. This lack of clarity is because:",
+				"A":"it is written for specific employees.",
+				"B":"it is the same for groups of employees.",
+				"C":"managers may ask individual employees to take on additional tasks.",
+				"D":"it is written for specific departments.",
+				"E":"it is written only for benchmark jobs.",
+				"Ans":"C"
+			},
+			{
+				"Q":"360-degree feedback was originally used only for training and development purposes, but has rapidly spread to being used in the management of:",
+				"A":"employee orientation.",
+				"B":"performance and pay.",
+				"C":"customer service.",
+				"D":"job evaluation.",
+				"E":"rating errors.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Renu has been hired as the first human resources professional at a growing landscape architecture firm, Terrastyle Inc. She is considering changing the current performance appraisal method, the graphic rating scale, to the forced distribution method of performance appraisal. What criticism of using this method do you advise her about?",
+				"A":"A considerable proportion of the workforce is classified as less than average.",
+				"B":"It is similar to grading on a curve.",
+				"C":"Traits being appraised are decided by management.",
+				"D":"Employees are rated on a comparison basis.",
+				"E":"Predetermined percentages of employees are placed in performance categories.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Susan, the HR Director, is developing performance management training sessions for junior managers. She wants to be sure to emphasize the key success factor for effective performance appraisal that most often leads to optimum employee performance. The factor she emphasizes is:",
+				"A":"the quality of the performance appraisal dialogue between the manager and employee.",
+				"B":"effective career development discussions.",
+				"C":"legally compliant policies.",
+				"D":"linking pay with performance.",
+				"E":"none of the above.",
+				"Ans":"A"
+			},
+			{
+				"Q":"An appraisal method that aims at combining the benefits of narrative, critical incidents and quantified ratings by anchoring a quantified scale with specific narrative examples of good or poor performance is called the:",
+				"A":"paired narrative-quantitative method.",
+				"B":"anchored narrative-quantitative method.",
+				"C":"critical incident method.",
+				"D":"graphic rating scale method.",
+				"E":"behaviourally anchored rating scale method.",
+				"Ans":"E"
+			},
+			{
+				"Q":"A summary performance appraisal discussion focuses on:",
+				"A":"planning.",
+				"B":"controlling.",
+				"C":"developing people.",
+				"D":"problem solving.",
+				"E":"administering.",
+				"Ans":"D"
+			},
+			{
+				"Q":"The performance appraisal method which involves keeping a record of uncommonly good or undesirable examples of an employee's work-related behaviour and reviewing it with the employee at predetermined times is the:",
+				"A":"alternation ranking method.",
+				"B":"behaviourally anchored rating scales.",
+				"C":"paired comparison method.",
+				"D":"critical incident method.",
+				"E":"forced distribution method.",
+				"Ans":"D"
+			},
+			{
+				"Q":"A graphic rating scale used with unclear standards may appear to be objective; however, it will probably result in unfair appraisals because the traits and degrees of merit are:",
+				"A":"open to interpretation.",
+				"B":"tightly structured.",
+				"C":"well defined.",
+				"D":"too strict/lenient.",
+				"E":"specific in nature.",
+				"Ans":"A"
+			},
+			{
+				"Q":"More firms today let employees anonymously evaluate their supervisors' performance. This process is known as:",
+				"A":"360-degree appraisal.",
+				"B":"team appraisal.",
+				"C":"upward feedback.",
+				"D":"anonymous evaluation.",
+				"E":"supervisor appraisal.",
+				"Ans":"C"
+			},
+			{
+				"Q":"A scale that lists a number of traits and a range of performance for each is called a(n):",
+				"A":"forced distribution method.",
+				"B":"behaviourally anchored rating scale.",
+				"C":"paired comparison scale.",
+				"D":"alternation ranking method.",
+				"E":"graphic rating scale.",
+				"Ans":"E"
+			},
+			{
+				"Q":"When it comes to performance appraisals, most firms combine:",
+				"A":"computerized techniques and BARS.",
+				"B":"manual techniques and MBO.",
+				"C":"several appraisal techniques.",
+				"D":"manual and subjective techniques.",
+				"E":"computerized and narrative techniques.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The individual ratings that are still the heart of most appraisal systems are the:",
+				"A":"supervisor's ratings.",
+				"B":"individual ratings.",
+				"C":"self-paced ratings.",
+				"D":"customer ratings.",
+				"E":"peer ratings.",
+				"Ans":"A"
+			},
+			{
+				"Q":"When conducting the appraisal interview the following should be kept in mind EXCEPT:",
+				"A":"develop an action plan.",
+				"B":"be direct and specific.",
+				"C":"don't get personal.",
+				"D":"talk in generalities.",
+				"E":"encourage the person to talk.",
+				"Ans":"D"
+			},
+			{
+				"Q":"An interview with an employee to make development plans, to maintain satisfactory performance if promotion is not indicated, or to correct unsatisfactory performance, is called a(n):",
+				"A":"appraisal interview.",
+				"B":"job interview.",
+				"C":"evaluation interview.",
+				"D":"development interview.",
+				"E":"exit interview.",
+				"Ans":"A"
+			},
+			{
+				"Q":"A method for appraising performance involving setting specific measurable goals with each employee and then periodically reviewing the progress made is called:",
+				"A":"behaviourally anchored rating scale method.",
+				"B":"management by objectives.",
+				"C":"progress review method.",
+				"D":"critical goal method.",
+				"E":"periodic review method.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Kai has a tendency to rate all of his direct reports as average. Kai's actions indicate the following 29) performance appraisal problem:",
+				"A":"bias.",
+				"B":"appraisal bias.",
+				"C":"halo effect.",
+				"D":"central tendency.",
+				"E":"equal rating tendency.",
+				"Ans":"D"
+			},
+			{
+				"Q":"When a person is accused of poor performance, research indicates that the first reaction that he/she may have is often:",
+				"A":"denial.",
+				"B":"anger.",
+				"C":"changing the subject.",
+				"D":"ignoring the accusation.",
+				"E":"aggression.",
+				"Ans":"A"
+			},
+			{
+				"Q":"The performance appraisal method that would use a \"+\" to denote \"better than\" and a \"-\" to denote \"worse than\" when comparing employees in order to get the highest-ranked employee is the:",
+				"A":"alternation ranking method.",
+				"B":"forced distribution method.",
+				"C":"graphic rating scale method.",
+				"D":"paired comparison method.",
+				"E":"critical incident method.",
+				"Ans":"D"
+			},
+			{
+				"Q":"In a study involving more than 200 industrial managers, the type of performance rating that predicted who would be promoted was the:",
+				"A":"peer appraisal.",
+				"B":"committee appraisal.",
+				"C":"supervisor appraisal.",
+				"D":"customer appraisal.",
+				"E":"self-appraisal.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Rating committees are usually composed of the employee's immediate supervisor and:",
+				"A":"that supervisor's boss and a customer.",
+				"B":"that supervisor's boss.",
+				"C":"three or four peers.",
+				"D":"other supervisors and peers.",
+				"E":"three or four other supervisors.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The following are examples of critical incidents for an assistant plant manager EXCEPT:",
+				"A":"preventing a machine breakdown by discovering a faulty part.",
+				"B":"instituting a new preventative maintenance system for the plant.",
+				"C":"instituting a new production system which decreased late orders by 10%.",
+				"D":"developing a corporate strategy to implement company-wide.",
+				"E":"allowing inventory storage costs to rise 15% in the prior month.",
+				"Ans":"D"
+			},
+			{
+				"Q":"A written warning to an employee with poor performance should include the following EXCEPT:",
+				"A":"indicate that the employee had an opportunity to correct their behaviour.",
+				"B":"specify any violation of the standards.",
+				"C":"make it clear the employee was aware of the standards.",
+				"D":"identify standards under which the employee is judged.",
+				"E":"specify that 360-degree appraisal will be used in future.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Which of the following is NOT an advantage of the behaviourally anchored rating scale method?",
+				"A":"It is the simplest form of performance appraisal so little supervisor time is involved in using this performance appraisal tool.",
+				"B":"The critical incidents allow for clearer standards.",
+				"C":"It is generally a more accurate measure of performance.",
+				"D":"It provides specific behavioural examples for each trait.",
+				"E":"It is relatively consistent and reliable.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Some employers evaluate the progress and development of their supervisory employees via the use of a narrative form of appraisal. One example of the form that is used is called the:",
+				"A":"critical incident method.",
+				"B":"performance improvement plan.",
+				"C":"performance discussion plan.",
+				"D":"assessment method. ",
+				"E":"essay form.",
+				"Ans":"B"
+			},
+			{
+				"Q":"The following are ways to minimize the impact of appraisal problems such as bias and central tendency EXCEPT:",
+				"A":"choose the right appraisal tool.",
+				"B":"be familiar with the typical rating errors that can undermine rating scale appraisals.",
+				"C":"be sure to understand the problem in order to prevent it.",
+				"D":"refrain from confusing the employee by including him/her in the rating and evaluation process.",
+				"E":"train supervisors to eliminate rating errors.",
+				"Ans":"D"
+			},
+			{
+				"Q":"When an employee's most recent performance can affect the evaluation of his/her overall 39) performance, the ________ error has occurred.",
+				"A":"halo",
+				"B":"central tendency",
+				"C":"appraisal bias",
+				"D":"recency",
+				"E":"similar-to-me",
+				"Ans":"D"
+			},
+			{
+				"Q":"When an appraisal scale is too open to interpretation, it is characterized as having:",
+				"A":"lack of appraisal specificity.",
+				"B":"unclear performance standards.",
+				"C":"non-quantitative standards.",
+				"D":"critical incidents.",
+				"E":"translation openness.",
+				"Ans":"B"
+			},
+			{
+				"Q":"The 360-degree appraisal approach fits closely with the goals of organizations committed to:",
+				"A":"MBO.",
+				"B":"continuous learning.",
+				"C":"pay equity.",
+				"D":"hierarchical chain of command.",
+				"E":"employment equity.",
+				"Ans":"B"
+			},
+			{
+				"Q":"Improving appraisal accuracy calls not just for training of supervisors, but also for:",
+				"A":"performance bonuses.",
+				"B":"an effective employee orientation program.",
+				"C":"MBO.",
+				"D":"a quantitative job evaluation system.",
+				"E":"reducing outside factors such as union pressure and time constraints.",
+				"Ans":"E"
+			},
+			{
+				"Q":"The following are advantages of the behaviourally anchored rating scale appraisal method EXCEPT:",
+				"A":"clearer standards.",
+				"B":"consistency.",
+				"C":"a more accurate measure.",
+				"D":"specific forced behavioural dimensions.",
+				"E":"specific feedback for supervisors to give employees.",
+				"Ans":"D"
+			},
+			{
+				"Q":"When using MBO, in order to avoid having the process demotivate employees, objectives must be:",
+				"A":"easy to attain.",
+				"B":"difficult to attain.",
+				"C":"the same for all employees in the same job.",
+				"D":"fair and attainable.",
+				"E":"based on the employee's educational level.",
+				"Ans":"D"
+			},
+			{
+				"Q":"A performance appraisal system that does not force managers to give false or misleading measurements and instead facilitates open, job-related discussions between the supervisor and the employee is:",
+				"A":"management by objectives.",
+				"B":"behaviourally anchored rating scales.",
+				"C":"a performance management system.",
+				"D":"total quality control.",
+				"E":"self-managed teams.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The performance appraisal method which is similar to grading on a curve, and which places a predetermined percentage of ratees in various performance categories, is the:",
+				"A":"critical incident method.",
+				"B":"paired comparison method.",
+				"C":"alternation ranking method.",
+				"D":"forced distribution method.",
+				"E":"graphic rating scale.",
+				"Ans":"D"
+			},
+			{
+				"Q":"The following are reasons for the failure of a performance appraisal EXCEPT:",
+				"A":"a lenient supervisor.",
+				"B":"arguing and poor communications which arise as problems during feedback sessions.",
+				"C":"not telling employees ahead of time exactly what is expected of them.",
+				"D":"having poor measures of performance.",
+				"E":"clearly defining performance standards.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Guidelines for developing a legally defensible performance appraisal process include the following EXCEPT:",
+				"A":"document evaluations.",
+				"B":"incorporate job characteristics into a rating instrument.",
+				"C":"use clearly defined individual dimensions of job performance.",
+				"D":"conduct job specialization for each employee.",
+				"E":"provide definitive performance standards to rater and ratees.",
+				"Ans":"D"
+			},
+			{
+				"Q":"An example of the alternation ranking method would include the following steps EXCEPT:",
+				"A":"defining the compensable factors.",
+				"B":"cross off names not known well enough to rank.",
+				"C":"listing all the employees to be ranked.",
+				"D":"listing the highest-ranking employee on the first line.",
+				"E":"putting the lowest-ranking employee on the last line.",
+				"Ans":"A"
+			},
+			{
+				"Q":"Typically a critical incident is retained if some percentage (usually ________% to ________%) of the second group assigns it to the same cluster.",
+				"A":"50; 80",
+				"B":"0; 100",
+				"C":"40; 80",
+				"D":"40; 90",
+				"E":"50; 50",
+				"Ans":"A"
+			},
+			{
+				"Q":"The method for appraising performance which ranks employees by making a chart of all possible pairs of the employees for each trait and indicating which employee is the better of the pair is known as the:",
+				"A":"alternation ranking method.",
+				"B":"paired comparison method.",
+				"C":"critical incident method.",
+				"D":"forced distribution method.",
+				"E":"graphic rating scale.",
+				"Ans":"B"
+			},
+			{
+				"Q":"The following steps are important to ensure that the appraisal interview leads to improved performance EXCEPT:",
+				"A":"ensure employees don't feel threatened during the interview.",
+				"B":"set improvement goals and a schedule for attaining them.",
+				"C":"the supervisor should be in firm control of the interview.",
+				"D":"give employees the opportunity to present their ideas and feelings.",
+				"E":"the supervisor should be helpful and constructive.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The following are problems for managers when using performance appraisal methods EXCEPT:",
+				"A":"appraisal bias.",
+				"B":"unclear standards.",
+				"C":"quota appraisals.",
+				"D":"halo effect.",
+				"E":"central tendency.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The following are advantages of various appraisal tools EXCEPT:",
+				"A":"MBO is tied to jointly agreed goals.",
+				"B":"a graphic rating scale is simple to use.",
+				"C":"forced distribution results depend on the adequacy of the original choice of cutoff points.",
+				"D":"BARS is very accurate.",
+				"E":"alternation ranking is simple to use.",
+				"Ans":"C"
+			},
+			{
+				"Q":"When supervisors who are engaged in a performance rating have a tendency to rate all employees 55) either high or low, this is a problem that is referred to as:",
+				"A":"central tendency.",
+				"B":"bias.",
+				"C":"appraisal bias.",
+				"D":"halo effect.",
+				"E":"leniency/strictness.",
+				"Ans":"E"
+			},
+			{
+				"Q":"A common method for appraising performance which involves evaluating employees by ranking them from best to worst on some trait is called the:",
+				"A":"graphic rating scale.",
+				"B":"paired comparison method.",
+				"C":"forced distribution method.",
+				"D":"alternation ranking method.",
+				"E":"behaviourally anchored rating scale.",
+				"Ans":"D"
+			},
+			{
+				"Q":"The 360-degree appraisal approach supports the following activities EXCEPT:",
+				"A":"recognition.",
+				"B":"succession planning.",
+				"C":"job evaluation.",
+				"D":"coaching.",
+				"E":"leadership development.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The easiest appraisal interview to conduct is ________ performance, ________ employee.",
+				"A":"satisfactory, unpromotable.",
+				"B":"unsatisfactory, uncorrectable.",
+				"C":"satisfactory, promotable.",
+				"D":"unsatisfactory, unpromotable.",
+				"E":"unsatisfactory, correctable.",
+				"Ans":"C"
+			},
+			{
+				"Q":"Appraisal systems must be based on performance criteria that are ________ for the position being rated, and ________ in that their application must produce consistent ratings for the same performance.",
+				"A":"reliable, valid",
+				"B":"reliable, reliable",
+				"C":"valid, measurable",
+				"D":"valid, reliable",
+				"E":"measurable, valid",
+				"Ans":"D"
+			},
+			{
+				"Q":"Gary is the supervisor of Mindy. He is very impressed with Mindy's ability to work in a team so has rated her as \"outstanding\" for this trait. Although she has had more missed delivery deadlines than her peers over the past financial quarter Gary rated her as \"above average\" for the trait \"personal effectiveness.\" Gary's actions indicate the following performance appraisal problem:",
+				"A":"bias.",
+				"B":"trait bias.",
+				"C":"halo effect.",
+				"D":"appraisal bias.",
+				"E":"trait effect.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The following are disadvantages of appraisal tools EXCEPT:",
+				"A":"the alternation ranking method can cause disagreements among employees.",
+				"B":"BARS is difficult to develop.",
+				"C":"a graphic rating scale is simple to use.",
+				"D":"the critical incident method is difficult to use to rate employees relative to one another.",
+				"E":"MBO is time-consuming.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The critical step in employees' understanding of how their work makes a contribution is:",
+				"A":"the appraisal session.",
+				"B":"the pay decision.",
+				"C":"defining performance expectations.",
+				"D":"the career planning session.",
+				"E":"the promotion decision.",
+				"Ans":"C"
+			},
+			{
+				"Q":"\"Best practices\" when dealing with defensive employees include:",
+				"A":"explain the person's behaviour to them.",
+				"B":"recognize that defensive behaviour is normal.",
+				"C":"using intimidation to convince.",
+				"D":"solve all problems quickly.",
+				"E":"never back down.",
+				"Ans":"B"
+			},
+			{
+				"Q":"The simplest and most popular technique for appraising employees is the:",
+				"A":"forced distribution method.",
+				"B":"paired comparison method.",
+				"C":"alternation ranking method.",
+				"D":"critical incident method.",
+				"E":"graphic rating scale.",
+				"Ans":"E"
+			},
+			{
+				"Q":"Organizations that have implemented 360-degree appraisal have the following advice for those considering it EXCEPT:",
+				"A":"provide training for supervisors, raters and ratees.",
+				"B":"assure all raters that their comments will be kept anonymous.",
+				"C":"use standard questionnaires.",
+				"D":"be clear about who will have access to reports.",
+				"E":"plan to evaluate the system for fine tuning.",
+				"Ans":"C"
+			},
+			{
+				"Q":"The following are advantages of using rating committees in the performance appraisal process EXCEPT:",
+				"A":"the composite ratings tend to be more fair than those of individual raters.",
+				"B":"variations in raters' ratings usually stem from the fact that raters often observe different facets of an employee's performance.",
+				"C":"several raters can help cancel out problems like bias and halo effect on the part of individual raters.",
+				"D":"appraisal is generally more biased because of personality clashes.",
+				"E":"the composite ratings tend to be more reliable and valid than those of individual raters.",
+				"Ans":"D"
+			},
+			{
+				"Q":"The basic problem with employee self-ratings is:",
+				"A":"employees rate themselves higher than they are rated by supervisors or peers.",
+				"B":"lack of anonymity.",
+				"C":"employee reluctance to self-rate.",
+				"D":"supervisor distrust of employee self-ratings.",
+				"E":"peers rate themselves lower than they are rated by supervisors or peers.",
+				"Ans":"A"
+			},
+			{
+				"Q":"In a behaviourally anchored rating scale there are critical incident anchors along the:",
+				"A":"paired comparison scale.",
+				"B":"alternation ranking method scale.",
+				"C":"forced distribution scale.",
+				"D":"performance rating scale.",
+				"E":"graphic rating scale.",
+				"Ans":"D"
+			},
+			{
+				"Q":"MBO almost always refers to a comprehensive organization-wide goal-setting and appraisal program that consists of the following steps EXCEPT:",
+				"A":"setting long-term performance targets.",
+				"B":"setting the organization's goals.",
+				"C":"setting the department's goals.",
+				"D":"discussing the department's goals.",
+				"E":"providing feedback to employees.",
+				"Ans":"A"
+			},
+			{
+				"Q":"The following are advantages of the critical incident method EXCEPT:",
+				"A":"can be used to supplement another appraisal technique.",
+				"B":"provides the evaluator with some specific hard facts for explaining the appraisal.",
+				"C":"ensures that the evaluator thinks about the employee's appraisal all during the year.",
+				"D":"ensures that the evaluator will only consider the employee's most recent job performance.",
+				"E":"provides concrete examples of what an employee can do to eliminate any performance deficiencies.",
+				"Ans":"D"
+			}
+  		]
 ]
