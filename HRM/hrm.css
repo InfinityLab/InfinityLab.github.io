@@ -1,0 +1,105 @@
+body {
+	position: relative;
+	background: url("./img/bg_main.gif");
+}
+
+#title {
+	font-family: Arial;
+	font-size: 22px;
+	margin-left: 20px;
+}
+
+#mistake-div {
+	position: fixed;
+	display: inline-block;
+	float: right;
+	margin-top: 70px;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+#mish1 {
+	font-family: cursive;
+	font-size: 25px;
+}
+
+#mistable{
+	font-family: Impact;
+	font-size: 20px;
+}
+
+.text {
+	position:absolute;
+	border:2px solid #000;
+	background-color: rgba(256,256,256,0.9);
+	width:50%;
+}
+
+table, th , td	{
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+table tr:nth-child(odd) {
+	background-color: #f1f1f1;
+}
+
+table tr:nth-child(even) {
+	background-color: #ffffff;
+}
+
+#catalog{
+	font-family: cursive;
+	font-size: 25px;
+	font-style: bold;
+	display: inline-block;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top: 70px;
+	float: left;
+}
+
+#contenth1{
+	font-family: cursive;
+	font-size: 25px;
+	font-style: bold;
+	display: block;
+	text-align: center;
+	float: left;
+	width:100%;
+}
+
+#content {
+	margin-top: 70px;
+	margin-right: 20px;
+	width:60%;
+	float:left;
+	display:inline-block;
+	font-family: Arial;
+	font-size: 18px;
+	margin-left: 50px;
+}
+
+body :nth-child(1) div {
+	margin-top:10px;
+	color:black;
+	font-size: 20px;
+	font-family: Impact;
+}
+
+span {
+	color:red;
+}
+
+#question {
+	font-size: 22px;
+	display: inline-block;
+}
+
+
+#button {
+	margin-top: 10px;
+	margin-right: 40px;
+	display: block;
+	float: right;
+}

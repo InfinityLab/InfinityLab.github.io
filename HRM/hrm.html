@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html ng-app="hrm_test">
+<head>
+	<title>HRM</title>
+  <link type="text/css" rel="stylesheet" href="./hrm.css">
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
+  <script type="text/javascript" src="./questions.js"></script>
+	<script type="text/javascript" src="./main.js"></script>
+</head>
+
+<body ng-controller="MainController">
+  <div id="title">
+    <h1><span>HRM</span> Testbank</h1>
+  </div>
+  <div id="other">
+  <div id="catalog">
+    <h1><span>C</span>atalog</h1>
+    <div ng-repeat="chapter in chapters">
+        <input type="checkbox" ng-model="chapter.selected"  ng-true-value="true" ng-false-value="false"/>
+        <label>Chapter <span>{{chapter.id}}</span></label>
+    </div>
+  </div>
+
+  <div id="content">
+    <div id="contenth1">
+      <h1><span>Q</span>uestion</h1>
+    </div>
+
+    <div id="button">
+      <button ng-show="!Question" ng-click="NextQuestion()">
+        Next Question
+      </button>
+    </div>
+
+    <br>
+    <div ng-show="Question" style="width:100%" id="question">
+      {{Question}}
+      <br>
+        <form name="Choice" >
+          <label>
+            <input type="radio" ng-disabled="Answer" ng-change="ans('A')" ng-model="Answer" value="A">
+            <span>A</span> {{A}}
+          </label><br/>
+          <label>
+            <input type="radio" ng-disabled="Answer" ng-change="ans('B')" ng-model="Answer" value="B">
+            <span>B</span> {{B}}
+          </label><br/>
+          <label>
+            <input type="radio" ng-disabled="Answer" ng-change="ans('C')" ng-model="Answer" value="C">
+            <span>C</span> {{C}}
+          </label><br/>
+          <label>
+            <input type="radio" ng-disabled="Answer" ng-change="ans('D')" ng-model="Answer" value="D">
+            <span>D</span> {{D}}
+          </label><br/>
+          <label>
+            <input type="radio" ng-disabled="Answer" ng-change="ans('E')" ng-model="Answer" value="E">
+            <span>E</span> {{E}}
+          </label>
+        </form>
+    </div>
+    <h4 ng-show="Answer">Your answer is {{Answer}}, correct answer is {{correct}}, {{feedback}}
+     <button ng-click="NextQuestion()" >
+      Next Question
+    </button>
+  </div>
+
+    <div id="mistake-div">
+      <div id="mish1">
+        <h1><span>M</span>istList</h1>
+      </div>
+      <div id="mistable">
+     <table>
+      <tr ng-repeat="question in mistake | orderBy : 'chapter'" >
+        <td ng-click="ToQst(question.chapter,question.question)" ng-mouseover="show_qst(question.chapter,question.question)" ng-mouseleave="hide_qst()"> Chapter: <span>{{ question.chapter }}</span><div class="text" ng-show="show(question.chapter,question.question)"> <span>{{question.text}}</span></div></td>
+        <td ng-click="ToQst(question.chapter,question.question)" ng-mouseover="show_qst(question.chapter,question.question)" ng-mouseleave="hide_qst()"> Question: <span>{{ question.question }}</span></td>
+        
+      </tr>
+     </table>
+   </div>
+  </div>
+</div>
+</body>
+</html>
